@@ -1,0 +1,3 @@
+/Users/vishnu.dev/basics/read_image/out/build/CMakeFiles/DisplayImage.dir
+/Users/vishnu.dev/basics/read_image/out/build/CMakeFiles/edit_cache.dir
+/Users/vishnu.dev/basics/read_image/out/build/CMakeFiles/rebuild_cache.dir
