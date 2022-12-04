@@ -3,6 +3,7 @@
 
 void increment(int *p){
     /*function to showcase change value by reference*/
+    std::cout << "p: " << p << std::endl;
     *p = (*p) +1;
 
 };
