@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/inheritance-demo.dir/inheritance-demo.cpp.o CMakeFiles/inheritance-demo.dir/LivingBeing.cpp.o CMakeFiles/inheritance-demo.dir/Frog.cpp.o  -o inheritance-demo 

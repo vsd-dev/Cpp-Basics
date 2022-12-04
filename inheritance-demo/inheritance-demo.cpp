@@ -1,7 +1,7 @@
 #include <iostream>
 #include "inheritance-demo.h"
 
-int main(int, char**) {
+int main() {
     LivingBeingInfo frog_info;
     frog_info.species_name = "Tree";
     Frog frog(frog_info);

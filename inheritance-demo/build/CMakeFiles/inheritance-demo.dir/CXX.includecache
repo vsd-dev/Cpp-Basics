@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vishnu/workspace/learn/Cpp-Basics/inheritance-demo/Frog.cpp
+Frog.h
+/home/vishnu/workspace/learn/Cpp-Basics/inheritance-demo/Frog.h
+
+/home/vishnu/workspace/learn/Cpp-Basics/inheritance-demo/Frog.h
+LivingBeing.h
+/home/vishnu/workspace/learn/Cpp-Basics/inheritance-demo/LivingBeing.h
+
+/home/vishnu/workspace/learn/Cpp-Basics/inheritance-demo/LivingBeing.cpp
+LivingBeing.h
+/home/vishnu/workspace/learn/Cpp-Basics/inheritance-demo/LivingBeing.h
+
+/home/vishnu/workspace/learn/Cpp-Basics/inheritance-demo/LivingBeing.h
+string
+-
+
+/home/vishnu/workspace/learn/Cpp-Basics/inheritance-demo/inheritance-demo.cpp
+iostream
+-
+inheritance-demo.h
+/home/vishnu/workspace/learn/Cpp-Basics/inheritance-demo/inheritance-demo.h
+
+/home/vishnu/workspace/learn/Cpp-Basics/inheritance-demo/inheritance-demo.h
+iostream
+-
+vector
+-
+LivingBeing.h
+/home/vishnu/workspace/learn/Cpp-Basics/inheritance-demo/LivingBeing.h
+Frog.h
+/home/vishnu/workspace/learn/Cpp-Basics/inheritance-demo/Frog.h
+

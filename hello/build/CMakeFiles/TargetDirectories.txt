@@ -1,0 +1,6 @@
+/home/vishnu/workspace/learn/Cpp-Basics/hello/build/CMakeFiles/HELLO.dir
+/home/vishnu/workspace/learn/Cpp-Basics/hello/build/CMakeFiles/edit_cache.dir
+/home/vishnu/workspace/learn/Cpp-Basics/hello/build/CMakeFiles/rebuild_cache.dir
+/home/vishnu/workspace/learn/Cpp-Basics/hello/build/Adder/CMakeFiles/adder.dir
+/home/vishnu/workspace/learn/Cpp-Basics/hello/build/Adder/CMakeFiles/edit_cache.dir
+/home/vishnu/workspace/learn/Cpp-Basics/hello/build/Adder/CMakeFiles/rebuild_cache.dir
