@@ -21,7 +21,13 @@ int main(int argc, char** argv )
     }
 
     cv::cvtColor(image, greyMat, COLOR_BGR2GRAY);
-    imwrite("grey.jpg", greyMat);  
+    imwrite("grey.jpg", greyMat); 
+
+    // greyMat = greyMat.reshape (1, greyMat.rows, greyMat.cols);
+    int size_1[3] = { 1, greyMat.rows, greyMat.cols };
+    cv::Mat input_(3, size_1, greyMat.type(), greyMat.data);
+    std::cout << "new shape: " << input_.size << std::endl;
+    
     // namedWindow("Display Image", WINDOW_AUTOSIZE );
     // imshow("Display Image", image);
     // waitKey(0);

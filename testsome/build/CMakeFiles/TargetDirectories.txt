@@ -1,0 +1,3 @@
+/home/vishnu/workspace/learn/Cpp-Basics/testsome/build/CMakeFiles/testsome.dir
+/home/vishnu/workspace/learn/Cpp-Basics/testsome/build/CMakeFiles/edit_cache.dir
+/home/vishnu/workspace/learn/Cpp-Basics/testsome/build/CMakeFiles/rebuild_cache.dir

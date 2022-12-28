@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/vishnu/workspace/learn/Cpp-Basics/numpy/build",
+  "command": "/usr/bin/g++ -isystem /usr/local/include/opencv4 -g -std=gnu++17 -o CMakeFiles/Test.dir/main.cpp.o -c /home/vishnu/workspace/learn/Cpp-Basics/numpy/main.cpp",
+  "file": "/home/vishnu/workspace/learn/Cpp-Basics/numpy/main.cpp"
+}
+]

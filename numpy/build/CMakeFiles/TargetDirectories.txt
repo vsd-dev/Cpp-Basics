@@ -1,0 +1,2 @@
+/home/vishnu/workspace/learn/Cpp-Basics/numpy/build/CMakeFiles/edit_cache.dir
+/home/vishnu/workspace/learn/Cpp-Basics/numpy/build/CMakeFiles/rebuild_cache.dir

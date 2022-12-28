@@ -1,0 +1,7 @@
+/home/vishnu/workspace/learn/Cpp-Basics/cmake_tut/build/CMakeFiles/Demo.dir
+/home/vishnu/workspace/learn/Cpp-Basics/cmake_tut/build/CMakeFiles/edit_cache.dir
+/home/vishnu/workspace/learn/Cpp-Basics/cmake_tut/build/CMakeFiles/rebuild_cache.dir
+/home/vishnu/workspace/learn/Cpp-Basics/cmake_tut/build/CMakeFiles/list_install_components.dir
+/home/vishnu/workspace/learn/Cpp-Basics/cmake_tut/build/CMakeFiles/install.dir
+/home/vishnu/workspace/learn/Cpp-Basics/cmake_tut/build/CMakeFiles/install/local.dir
+/home/vishnu/workspace/learn/Cpp-Basics/cmake_tut/build/CMakeFiles/install/strip.dir

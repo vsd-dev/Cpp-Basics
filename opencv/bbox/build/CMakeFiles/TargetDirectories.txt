@@ -1,0 +1,3 @@
+/home/vishnu/workspace/learn/Cpp-Basics/opencv/bbox/build/CMakeFiles/resize.dir
+/home/vishnu/workspace/learn/Cpp-Basics/opencv/bbox/build/CMakeFiles/edit_cache.dir
+/home/vishnu/workspace/learn/Cpp-Basics/opencv/bbox/build/CMakeFiles/rebuild_cache.dir
