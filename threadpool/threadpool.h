@@ -79,12 +79,12 @@ inline ThreadPool::~ThreadPool()
 template <typename F, typename... Args>
 decltype(auto) ThreadPool::addWorkFunc(F&& f, Args&&... args)
 {
-
 #if __linux__
 #if __cplusplus <=201402L
 	using return_type = std::result_of_t<F(Args...)>;
 #else
 	using return_type = std::invoke_result_t<std::decay_t<F>, std::decay_t<Args>...>;
+#endif
 #endif
 	auto task = std::make_shared<std::packaged_task<return_type()>>([Func = std::forward<F>(f)] { return Func(); });
 
