@@ -1,0 +1,16 @@
+.DS_Store
+.vscode/
+_build/
+_install/
+_output/
+_deploy/
+
+/setup.bash
+
+/log/
+/*INFO*
+/*WARNING*
+/*ERROR*
+/*FATAL*
+
+__pycache__/

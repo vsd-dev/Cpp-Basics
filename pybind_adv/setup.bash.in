@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+_libdir=@CMAKE_INSTALL_PREFIX@/@CMAKE_INSTALL_LIBDIR@
+
+path_add() {
+  p="$1"
+  export LD_LIBRARY_PATH=$p${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
+  export PYTHONPATH=$p${PYTHONPATH:+:${PYTHONPATH}}
+  echo "+ $p"
+}
+
+echo "$LD_LIBRARY_PATH, $PYTHONPATH"
+
+if (( $# == 0 )); then
+  path_add "$_libdir"
+else
+  for p in "$@"; do
+    path_add "$_libdir/$p"
+  done
+fi
